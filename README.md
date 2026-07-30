@@ -1,10 +1,10 @@
-16-Bit ALU Design & SystemVerilog Verification Environment
+#16-Bit ALU Design & SystemVerilog Verification Environment
 
 A complete RTL implementation and self-checking verification environment for a 16-bit Arithmetic Logic Unit (ALU) written in Verilog HDL and SystemVerilog.
 
 The project demonstrates both digital design and verification concepts by implementing a golden reference model, randomized stimulus generation, automated checking, and waveform-based debugging.
 
-Features
+#Features
 RTL Design
 16-bit ALU
 Arithmetic operations
